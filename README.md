@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> Flyttat till [Dsek-LTH/styrdokument](https://github.com/Dsek-LTH/styrdokument)
+
 # Riktlinjer
 
 Detta är D-sektionen inom TLTHs riktlinjer. Under "Releases" finns alla versioner av riktlinjer sedan HTM1 2020. Om man följer commit-meddelanden finns mer detaljerad historik.
